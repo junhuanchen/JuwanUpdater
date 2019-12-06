@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppName>Test</AppName>
+  <AppVersion>1.0.2</AppVersion>
+  <FileExecuteAfter>Test.exe</FileExecuteAfter>
+  <ExecuteTimeout>0</ExecuteTimeout>
+  <TreatErrorAsNotUpdated>false</TreatErrorAsNotUpdated>
+  <PromptUserBeforeAutomaticUpgrade>true</PromptUserBeforeAutomaticUpgrade>
+  <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
+  <Package>7c0ee44a1e584351bcf1b337f3ed6d6e.zip</Package>
+  <MD5>A645A5E4B971ACE25B3A351C026FC0B1</MD5>
+  <DeleteMethod>None</DeleteMethod>
+  <PackageSize>199541</PackageSize>
+  <ForceUpdate>false</ForceUpdate>
+  <Packages>
+    <PackageInfo>
+      <FilePath>Test.exe</FilePath>
+      <FileSize>623616</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>D4F6B27683FEF10EFE4459B9A06F9000</PackageHash>
+      <PackageName>9f28f3cacade4064b57f81ae8ebf7c87.zip</PackageName>
+      <PackageSize>199427</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Version Hash</VerificationLevel>
+      <FileHash>561591DF6776AB9FF59113D99F83B9A5</FileHash>
+      <Files>
+        <string>Test.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>更新日志.txt</FilePath>
+      <FileSize>4</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>92E58E81916543B188F593FF5C085BCA</PackageHash>
+      <PackageName>0e6e7811897546d6a32eb63c31b4e2c7.zip</PackageName>
+      <PackageSize>136</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>098F6BCD4621D373CADE4E832627B4F6</FileHash>
+      <Files>
+        <string>更新日志.txt</string>
+      </Files>
+    </PackageInfo>
+  </Packages>
+  <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+  <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+  <MustUpdate>false</MustUpdate>
+  <AutoExitCurrentProcess>false</AutoExitCurrentProcess>
+  <AutoEndProcessesWithinAppDir>true</AutoEndProcessesWithinAppDir>
+  <AutoKillProcesses>false</AutoKillProcesses>
+  <RequreAdminstrorPrivilege>false</RequreAdminstrorPrivilege>
+</UpdateInfo>
